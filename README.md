@@ -6,19 +6,14 @@
 
 <h1 align="center"> Yoyo, I'm Andreas.  </h1>
 
-I'm studying for a bachelor's in data analytics and planning to go straight into a master's in data science after. Alongside that, I work part-time with IT and data analytics within the danish education sector — data modelling, automating stuff, dashboards, and generally making data less of a mess. Most of my projects are in R or Python, usually involving some scraping, modeling, or random idea I wanted to try out. I like making things that are actually useful (or at the very least interesting to me). </br>
+I'm studying for a bachelor's in data analytics and planning to go straight into a master's in data science after. Alongside that, I work part-time with IT and data analytics within the danish education sector — data modelling, automating the data pipe-lines, dashboards, and generally making data less of a mess. Most of my projects are in R or Python, usually involving some scraping, modeling, or random idea I wanted to try out. I like making things that are actually useful (or at the very least interesting to me). </br>
 I also enjoy tinkering with other parts of IT — cloud stuff, Linux setups, Raspberry Pis, server racks, and whatever else I can get my hands on.
 
 <br/>
 
-<table>
-  <tr>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreas-Westh&theme=tokyonight" />
-    </td>
-    <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andreas-Westh&theme=tokyonight" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreas-Westh&theme=tokyonight" width="665"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andreas-Westh&theme=tokyonight" width="325"/>
+</div>
 
