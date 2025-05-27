@@ -6,7 +6,7 @@
 
 <h1 align="center"> Yoyo, I'm Andreas.  </h1>
 
-I'm studying for a bachelor's in data analytics and planning to go straight into a master's in data science after. Alongside that, I work part-time with IT and data analytics within the danish education sector, mainly doing data modelling, automating the data pipe-lines, dashboards, and generally making data less of a mess + practical IT tasks. Most of my projects are in R or Python, usually involving some scraping, modeling, or random idea I wanted to try out. I like making things that are actually useful (or at the very least interesting to me). </br>
+I'm studying for a bachelor's in data analytics and planning to go straight into a master's in data science after. Alongside that, I work part-time with IT and data analytics within the danish education sector, mainly doing data modelling, automating the data pipe-lines, dashboards, generally making data less of a mess and hands-on IT tasks. Most of my projects are in R or Python, usually involving some scraping, modeling, or random idea I wanted to try out. I like making things that are actually useful (or at the very least interesting to me). </br>
 I also enjoy tinkering with other parts of IT like: cloud infrastructure, Linux, Raspberry Pis, server racks, and whatever else I can get my hands on.
 
 <br/>
