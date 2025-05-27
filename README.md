@@ -12,8 +12,8 @@ I also enjoy tinkering with other parts of IT — cloud stuff, Linux setups, Ras
 <br/>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreas-Westh&theme=tokyonight" width="370"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreas-Westh&theme=tokyonight" width="592"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andreas-Westh&theme=tokyonight" width="180"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andreas-Westh&theme=tokyonight" width="288"/>
 </div>
 
