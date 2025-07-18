@@ -12,7 +12,7 @@
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Andreas-Westh&theme=tokyonight" width="66%" />
   &nbsp;
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Andreas-Westh&theme=tokyonight" width="32%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Andreas-Westh&theme=tokyonight" width="32%" />
 </div>
 
 
